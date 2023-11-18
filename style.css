@@ -1,0 +1,25 @@
+.dis{
+    border-radius: 30px;
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: 0px 5px 5px black;
+}
+.cd{
+    background-color: #4169E1;
+    border-radius: 3px;
+}
+h1{
+   font-weight: bold;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+input{
+    width: 200px;
+}
+.btn{
+    padding: 30px;
+    border-color: #4169E1;
+    
+}
+button:hover{
+    color: black;
+}
